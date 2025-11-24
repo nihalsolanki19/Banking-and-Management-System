@@ -13,7 +13,8 @@ The project mainly uses Python’s basic concepts like functions, loops, file ha
 2. Save the code in a file named banking.py.
 3. Open a terminal or command prompt and go to the project folder.
 4. Run the command: python banking.py
-5.Once the program starts, it will show a menu where you can choose what you want to do.
+
+Once the program starts, it will show a menu where you can choose what you want to do.
 ## How Each Option Works
 ### Create Account
 The program asks for your name and an initial deposit. Then it creates a 5-digit account number and saves all the details to the JSON file.
@@ -29,3 +30,4 @@ Shows the current balance of the given account number.
 3. Shows how to build a menu-based application
 
 4. Suitable for school and college projects
+
