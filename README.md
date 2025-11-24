@@ -6,8 +6,7 @@ This project is a banking system made using Python. It works on the command line
 3. Allows withdrawing money (only if the balance is enough)
 4. Shows the balance of any account
 5. Stores all the account data in a file called bank_data.json
-
-The project mainly uses Python’s basic concepts like functions, loops, file handling, and condition checking.
+5. The project mainly uses Python’s basic concepts like functions, loops, file handling, and condition checking.
 ## How To Run The Program
 1. Make sure Python is installed on your computer.
 2. Save the code in a file named banking.py.
@@ -28,6 +27,4 @@ Shows the current balance of the given account number.
 1. It is easy to understand and good for beginners
 2. Helps practice file handling in Python
 3. Shows how to build a menu-based application
-
 4. Suitable for school and college projects
-
